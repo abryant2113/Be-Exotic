@@ -1,6 +1,9 @@
 # Be-Exotic
 A chrome extension used to turn all images on webpages into photos of our beloved Tiger King.
 
+![alt_text](https://user-images.githubusercontent.com/13561150/79630816-3b2a9280-811a-11ea-91df-595a99365188.png)
+![alt_text](https://user-images.githubusercontent.com/13561150/79630893-be4be880-811a-11ea-8313-379c41ee299b.png)
+
 I'm working on getting this extension published to the Chrome store, but the review process for that tends to take around a week, so here's a very simple way to add this to your list of chrome extensions in the meantime.
 
 # Usage
